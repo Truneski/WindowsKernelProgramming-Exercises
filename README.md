@@ -3,4 +3,4 @@ This repository contains drivers created for the purpose of completing some exer
 Hopefully they'll be useful to you.
 
 Blogpost Link:
-https://truneski.github.io/post/fifth-post/
+https://truneski.github.io/post/2020/04/03/book-review-windows-kernel-programming-and-creating-drivers-of-select-exercises/
